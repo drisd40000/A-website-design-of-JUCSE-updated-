@@ -1,0 +1,139 @@
+/*heading-1 css start*/
+.heading-1{  
+    background-color: honeydew;
+    font-family: arial;   
+}
+.logo-image{
+    position: relative;
+    padding-top: 10px;
+}
+.name-1 {
+    position: relative;
+    font-weight: 600;
+    color: darkblue;
+    padding-top: 10px;
+    font-size: 20px;
+    font-family: sans-serif;
+    margin-left: 75px;
+    margin-top: -70px;
+}
+
+.name-2 {
+    position: relative; 
+    color: darkblue;
+    font-family: sans-serif;
+    font-size: 15px;
+    margin-top: -13px;
+    font-weight: 600;
+    margin-left: 75px;
+}
+
+
+.icon-float{
+    font-size: 22px;
+    width: 40px;
+    height: 35px;
+    text-align: center;
+    text-decoration: none;
+    border: 2px solid blue;
+    padding-top: 5px;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+/*heading-1 css end*/
+
+
+/*container-fluid menubar css starts*/
+.menubar{
+    padding: 0px;
+    background-color: #46C23E;
+}
+
+/*container navbar css start*/ 
+.navbar-expand-lg .navbar-nav .nav-link {
+    font-size: 22px;
+    font-family: -webkit-body;
+    font-weight: 600;
+    padding-right: 1.5rem;
+    padding-left: 1.5rem;
+    color: white;
+    padding-top: 0;
+}
+
+/*after collapse display menu in right*/
+.navbar-right{
+    float: right;
+}
+
+/* toggle button move to right*/
+.navbar-light .navbar-toggler {
+    border: none;
+    margin-left: 80%;
+}
+    
+/*background color*/
+.bg-light {
+    background-color:#46C23E!important;
+}
+
+/*container navbar css end*/
+/*container-fluid menubar css end*/
+.content1-fa{
+    font-size: 25px;
+    color: green;
+    padding-top: 15px  
+}
+.content1-button{
+    margin-top: 10px;
+    width: 100%;
+    padding-bottom: 12px;
+    font-size: 20px;
+    border: none;
+    background-color: powderblue;
+    
+}
+
+/*slider part css start*/
+    .d-block {
+       
+        height: 384px;
+        padding-top: 10px;
+        width: 100%;
+        
+    }
+    /*slider part css end*/
+.content-13{
+    height: 374px;
+    background-color: powderblue;
+    margin-top: 10px;
+    text-align: center;
+    
+}
+.image-fluid{
+    margin-top: 10px;
+    border-radius: 50%;
+    
+}
+
+.content13-p{
+    font-size: 20px;
+    font-weight: 500;
+}
+#content13-p2{
+    margin-top: -13px;
+}
+#content13-p3{
+    font-weight:400;
+    font-size:15px;
+    padding-left: 2px;
+    padding-right: 2px;
+}
+.scroll-bar{
+    background-color: powderblue;
+    margin-top: 10px;
+    padding-top: 5px;
+}
+.scroll-text{
+    font-size: 20px;
+    padding-right: 15px;
+}
